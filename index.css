@@ -1,0 +1,103 @@
+.container{
+    text-align:center;
+    background-color: rgb(65, 201, 201);
+    height: 1000px;
+    
+
+}
+#tophead{
+    font-size:60px;
+    color: white;
+}
+#firstins{
+    color: yellow;
+    font-size:30px;
+}
+#secondins{
+    color: green;
+    font-size:30px;
+}
+#thirdins{
+    color: rgb(3, 26, 3);
+    font-size:30px;
+}
+
+#input{
+    font-size:30px;
+    border-radius:15px;
+    margin-top:30px;
+}
+
+#add{
+    margin-top:10px;
+    font-size:30px;
+    border-radius:15px;
+}
+
+#parent-div{
+    /*border:5px solid rgb(104, 17, 17);*/
+    width:500px;
+    color:blueviolet;
+    font-size:30px;
+    margin-top:40px;
+}
+
+/*COPY OF CERTAIN TAGS:-*/
+
+.heading{
+    border:2px solid rgb(60, 60, 176);
+    text-align:center;
+    margin:40px 0 0 180px;
+    font-family: monospace;
+    font-size: 40px;
+    background-color: rgb(178, 178, 240);
+    color:rgb(30, 30, 41);
+    border-radius:10px;
+    display: block;
+    width:1000px;
+    height: 70px;
+    
+    
+}
+
+/*.button {
+    background-color: red;
+    border-radius: 5px;
+    position: absolute;
+    left:1150px;
+    font-size: 20px;
+    cursor: pointer;
+    
+}*/
+
+
+.button {
+    background-color: red;
+    border-radius: 5px;
+    position: absolute;
+    left: 1080px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 2px;
+    
+}
+.button2 {
+    background-color: rgb(126, 118, 237);
+    border-radius: 5px;
+    position: absolute;
+    left: 1081px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 39px;
+    
+}
+
+
+.button3{
+    font-size: 30px;
+    border-radius: 5px;
+    background-color:rgb(170, 152, 156);
+    margin-top: 20px;
+    margin-left: 340;
+    cursor: pointer;
+}
